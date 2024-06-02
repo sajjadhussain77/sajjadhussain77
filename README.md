@@ -1,6 +1,9 @@
+![github img](https://github.com/sajjadhussain77/sajjadhussain77/assets/135656014/7b98d3a2-a3e9-4bef-96e3-3f753a255eab)
+
+
 <h1 align="center">Hi 👋, I'm Sajjad hussain</h1>
 <h3 align="center">A passionate software engineer from pakistan</h3>
-<img align="right" alt="coding" width="400" scr="https://images.app.goo.gl/6xqoNHymejea1uwC8"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadhussain77&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadhussain77" /> </p>
 
